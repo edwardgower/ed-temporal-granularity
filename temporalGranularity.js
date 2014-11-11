@@ -5,7 +5,6 @@
  * the granularity of a second for the purpose of comparison and calculations.
  *
  * (C) 2014 Ed Gower
- * MIT LICENCE
  *
  */
 
