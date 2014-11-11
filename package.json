@@ -1,0 +1,8 @@
+{
+  "name": "ed-temporal-granularity",
+  "version": "0.0.1",
+  "devDependencies": {
+    "mocha": "^2.0.1",
+    "should": "^4.3.0"
+  }
+}
