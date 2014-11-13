@@ -14,8 +14,8 @@ granularity.properties[1].code // 'ms'
 
 Values of the enum are:
 
-    microSecond: 0,
-    milliSecond: 1,
+    microsecond: 0,
+    millisecond: 1,
     second: 2,
     minute: 3,
     hour: 4,
