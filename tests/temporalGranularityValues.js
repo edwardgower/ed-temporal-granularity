@@ -7,10 +7,10 @@ var granularity = require( '../temporalGranularity' );
 
 describe( 'Temporal Granularity should have the properties: ', function () {
     it( 'microSecond, which should have a value of 0 (zero)', function () {
-        granularity.should.have.property( 'microSecond', 0 );
+        granularity.should.have.ownProperty( 'microsecond' ).equal( 0 );
     } );
     it( 'milliSecond, which should have a value of 1', function () {
-        granularity.should.have.property( 'milliSecond', 1 );
+        granularity.should.have.property( 'millisecond', 1 );
     } );
     it( 'second, which should have a value of 2', function () {
         granularity.should.have.property( 'second', 2 );

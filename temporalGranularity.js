@@ -13,8 +13,8 @@
  * @enum {number}
  */
 var temporalGranularity = {
-    microSecond: 0,
-    milliSecond: 1,
+    microsecond: 0,
+    millisecond: 1,
     second: 2,
     minute: 3,
     hour: 4,

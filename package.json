@@ -1,6 +1,6 @@
 {
   "name": "ed-temporal-granularity",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "enum that defines the granularity of the temporal definitions of the ed (event driven) network",
   "main": "index.js",
   "devDependencies": {
@@ -12,8 +12,6 @@
     "url": "git://github.com/edwardgower/ed-temporal-granularity.git"
   },
   "keywords": [
-    "event",
-    "driven",
     "temporal granularity enum"
   ],
   "author": "Ed Gower <edwardgower@gmail.com> (http://edgower.com)",
